@@ -8,7 +8,7 @@ This task using the previous task Web page, added WebSerial when pressing the co
 <b>Task 2-2</b><br>
 2-Write the Arduino code for the control<br>
 
-Learning References:<br>
+<b>Learning References:</b><br>
 1-https://www.youtube.com/watch?v=USwKQEpAMKA<br>
 2- https://makeabilitylab.github.io/physcomp/communication/web-serial.html#the-web-serial-api<br>
 3- https://web.dev/serial/<br>
